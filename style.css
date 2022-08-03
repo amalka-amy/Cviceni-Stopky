@@ -1,0 +1,16 @@
+.stopky{
+    display:flex;
+    font-family: monospace;
+    font-size: 80px;
+}
+
+body{
+    display:grid;
+    place-content: center;
+}
+.minuty, .vteriny{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+}
